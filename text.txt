@@ -9,3 +9,5 @@ Marketing
 Engineering
 	Hersh 
 	Frank
+	Memo
+
